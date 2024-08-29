@@ -7,3 +7,6 @@ This repository contains (almost) all the projects from the **Meta Front-End Dev
 
 ### Course Link
 [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer#courses)
+
+
+<a href="https://www.facebook.com/david.nanciu/">
