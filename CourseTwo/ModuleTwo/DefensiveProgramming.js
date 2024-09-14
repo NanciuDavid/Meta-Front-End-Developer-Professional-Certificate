@@ -18,3 +18,13 @@ function letterFinder(word, match) {
 }
 letterFinder("cat", "c");
 letterFinder(5, 2);
+
+
+try {
+    Number(5).toPrecision(300)
+    } catch(e) {
+    console.log("There was an error")
+    } 
+
+var str = "Hello";
+str.match("jello");
