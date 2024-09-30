@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    text-align: center; /* Center the form contents */
+    margin-bottom: 20px;
+}
+
+nav{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+li{
+    display: inline;
+}
+
+form div {
+    display: flex;
+    flex-direction: column; /* Keep the div inline, respecting the input's width */
+    text-align: left; /* Ensure the label is aligned above the input */
+    margin-bottom: 10px; /* Add spacing between fields */
+    margin: 0 auto;
+}
+
+input {
+    width: 300px; /* Fixed width for input */
+    padding: 8px; /* Padding inside input fields */
+}
+
+
+footer{
+    margin-top: 10px;
+}
